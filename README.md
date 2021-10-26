@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vifernan42&show_icons=true&theme=radical)
 
 
-[![vifernan's 42 stats](https://badge42.herokuapp.com/api/stats/vifernan?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)]
+[![vifernan's 42 stats](https://badge42.herokuapp.com/api/stats/vifernan?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+
 |  ##  |			Name				| Result |
 |:----:|:----------------:|:------:|
 |  00  |[libft](https://github.com/vifernan42/libft)						          | ![vifernan's libft Score](https://badge42.herokuapp.com/api/project/vifernan/Libft) |
