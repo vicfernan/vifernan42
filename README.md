@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 -->
 # <h1 style="color:#950104; font-family: poppins;"> <img src="https://raw.githubusercontent.com/kube/vscode-42header/master/42.png" width=50> Madrid Telefónica Student </h1>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vifernan42)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![vifernan's 42 stats](https://badge42.herokuapp.com/api/stats/vifernan?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)]
 |  ##  |			Name				| Result |
 |:----:|:----------------:|:------:|
