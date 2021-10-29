@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vifernan42&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vifernan42&layout=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vifernan42&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![vifernan's 42 stats](https://badge42.herokuapp.com/api/stats/vifernan?darkmode=true?privacyName=true)](https://github.com/JaeSeoKim/badge42)
