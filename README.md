@@ -1,4 +1,4 @@
-### Wellcome to my Github ⚡
+### Victor Fernandez - vifernan 🤖
 <!--
 **vifernan42/vifernan42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,8 +12,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 # <h1 style="color:#950104; font-family: poppins;"> <img src="https://raw.githubusercontent.com/kube/vscode-42header/master/42.png" width=50> Madrid Telefónica Student </h1>
+-->
+
+- 42Madrid studient
+- C programming
+- Linux / OS
+- vifernan@studient.42madrid.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vifernan42&show_icons=true&theme=radical)
 
