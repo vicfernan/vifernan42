@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # <h1 style="color:#950104; font-family: poppins;"> <img src="https://raw.githubusercontent.com/kube/vscode-42header/master/42.png" width=50> Madrid Telefónica Student </h1>
 -->
 
-- 42Madrid studient
+- 42Madrid
 - C programming
 - Linux / OS
 - vifernan@studient.42madrid.com
