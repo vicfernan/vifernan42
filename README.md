@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 42Madrid
 - C programming
 - Linux / OS
-- vifernan@studient.42madrid.com
+- [vifernan@student.42madrid.com](mailto:vifernan@student.42madrid.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vifernan42&show_icons=true&theme=radical)
 
