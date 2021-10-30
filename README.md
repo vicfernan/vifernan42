@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 42Madrid
 - C programming
-- Linux / OS
+- Linux / macOS
 - [vifernan@student.42madrid.com](mailto:vifernan@student.42madrid.com?subject=[GitHub]%20-)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vifernan42&show_icons=true&theme=radical)
