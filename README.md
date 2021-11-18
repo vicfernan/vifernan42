@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ### <h1 style="color:#950104; font-family: poppins;"> <img src="https://raw.githubusercontent.com/kube/vscode-42header/master/42.png" width=50> Madrid</h1>
 
-[![vifernan's 42 stats](https://badge42.herokuapp.com/api/stats/vifernan?darkmode=true?privacyName=true)](https://github.com/JaeSeoKim/badge42)
+![vifernan's 42 stats](https://badge42.herokuapp.com/api/stats/vifernan?darkmode=true&cursus=42cursus)
 
 |  No.  |			Name				| Result | Date |
 |:-----:|:---------------:|:------:|:----:|
