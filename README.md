@@ -1,4 +1,7 @@
 ### <h1>Victor Fernandez - vifernan 🤖 </h1>
+
+![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=vifernan)
+
 <!--
 **vifernan42/vifernan42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
