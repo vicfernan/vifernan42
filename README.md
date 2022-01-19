@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 - 42Madrid
-- C programming
+- Mostly C programming | JS | JAVA | HTML | CSS | SQL
 - Linux / macOS
 - [vifernan@student.42madrid.com](mailto:vifernan@student.42madrid.com?subject=[GitHub]%20-)
 
