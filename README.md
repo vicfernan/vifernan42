@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 |  e2  |[exam02](https://github.com/vifernan42/exam02)    		          | ![vifernan's libft Score](https://badge42.herokuapp.com/api/project/vifernan/Exam%20Rank%2002) | September 2021 |
 |  05  |[FdF](https://github.com/vifernan42/FdF)           		          | ![vifernan's libft Score](https://badge42.herokuapp.com/api/project/vifernan/FdF) |October 2021 |
 |  06  |[Push_swap](https://github.com/vifernan42/push_swap)           		          | ![vifernan's libft Score](https://badge42.herokuapp.com/api/project/vifernan/push_swap) |November 2021 |
-|  07  |[Pipex](https://github.com/vifernan42/pipex)           		          | ![vifernan's libft Score](https://badge42.herokuapp.com/api/project/vifernan/pipex) |December 2021 |
+|  07  |[Pipex](https://github.com/vifernan42/pipex)           		          | ![vifernan's libft Score](https://badge42.herokuapp.com/api/project/vifernan/pipex) |January 2021 |
 
 
 ---
