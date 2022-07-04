@@ -7,7 +7,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=vifernan42&show_icons=true&theme=radical" alt="vifernan42" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vifernan42&theme=radical" alt="vifernan42" />
-
+<hr class="dashed">
 <h1 style="color:#950104; font-family: poppins;"> <img src="https://raw.githubusercontent.com/kube/vscode-42header/master/42.png" width=50> Madrid</h1>
 
 <img src="https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/stats?cursusId=21&coalitionId=64" alt="vifernan42" />
@@ -75,6 +75,4 @@
         <td>January 2022</td>
     </tr>
 </table>
-
----
 
