@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # <h1 style="color:#950104; font-family: poppins;"> <img src="https://raw.githubusercontent.com/kube/vscode-42header/master/42.png" width=50> Madrid Telefónica Student </h1>
 -->
 
-- 42Madrid
+- 42Madrid Fundacion Telefonica
 - C programming
 - Linux / macOS
 - <a href="mailto:vifernan@student.42madrid.com?subject=[GitHub]%20-">vifernan@student.42madrid.com</a>
