@@ -34,15 +34,15 @@ Here are some ideas to get you started:
 
 |  No.  |			Name				| Result | Date |
 |:-----:|:---------------:|:------:|:----:|
-|  00  |[libft](https://github.com/vifernan42/libft)						          | [![vifernan's 42 Libft Score](https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/project/2148441)](https://github.com/JaeSeoKim/badge42) | May 2021 |
-|  01  |netwhat     			          | [![vifernan's 42 netwhat Score](https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/project/2163849)](https://github.com/JaeSeoKim/badge42) | May 2021 |
-|  02  |[get_next_line](https://github.com/vifernan42/get_next_line)			          | [![vifernan's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/project/2165221)](https://github.com/JaeSeoKim/badge42) | June 2021 |
-|  03  |[printf](https://github.com/vifernan42/ft_printf)        		          | [![vifernan's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/project/2170754)](https://github.com/JaeSeoKim/badge42) | August 2021 |
-|  04  |[born2beroot](https://github.com/vifernan42/Born2BeRoot)    		          | [![vifernan's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/project/2189210)](https://github.com/JaeSeoKim/badge42) | September 2021 |
-|  e2  |[exam02](https://github.com/vifernan42/exam02)    		          | [![vifernan's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/project/2360319)](https://github.com/JaeSeoKim/badge42) | September 2021 |
-|  05  |[FdF](https://github.com/vifernan42/FdF)           		          | [![vifernan's 42 FdF Score](https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/project/2328743)](https://github.com/JaeSeoKim/badge42) |October 2021 |
-|  06  |[Push_swap](https://github.com/vifernan42/push_swap)           		          | [![vifernan's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/project/2396827)](https://github.com/JaeSeoKim/badge42) |November 2021 |
-|  07  |[Pipex](https://github.com/vifernan42/pipex)           		          | [![vifernan's 42 pipex Score](https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/project/2368031)](https://github.com/JaeSeoKim/badge42) |January 2022 |
+|  00  | <a href="https://github.com/vifernan42/libft">libft</a>|<img src="https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/project/2148441" /> | May 2021 |
+|  01  |netwhat| <img src="https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/project/2163849"/> | May 2021 |
+|  02  | <a href="https://github.com/vifernan42/get_next_line">get_next_line</a> | <img src="https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/project/2165221" /> | June 2021 |
+|  03  | <a href="https://github.com/vifernan42/ft_printf">printf</a> | <img src="https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/project/2170754"/> | August 2021 |
+|  04  | <a href="https://github.com/vifernan42/Born2BeRoot">born2beroot</a> | <img src="https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/project/2189210" /> | September 2021 |
+|  e2  | <a href="https://github.com/vifernan42/exam02">exam02</a> | <img src="https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/project/2360319" /> | September 2021 |
+|  05  | <a href="https://github.com/vifernan42/FdF">FdF</a> | <img src="https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/project/2328743" /> |October 2021 |
+|  06  | <a href="https://github.com/vifernan42/push_swap">Push_swap</a> | <img src="https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/project/2396827" /> |November 2021 |
+|  07  | <a href="https://github.com/vifernan42/pipex">Pipex</a> | <img src="https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/project/2368031" /> |January 2022 |
 <!--|  e3  |[exam02](https://github.com/vifernan42/exam03)    		          | ![vifernan's libft Score](https://badge42.herokuapp.com/api/project/vifernan/Exam%20Rank%2003) | February 2022 |-->
 
 
