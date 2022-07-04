@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vifernan42&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
-### <h1 style="color:#950104; font-family: poppins;"> <img src="https://raw.githubusercontent.com/kube/vscode-42header/master/42.png" width=50> Madrid</h1>
+### <p style="color:#950104; font-family: poppins;"> <img src="https://raw.githubusercontent.com/kube/vscode-42header/master/42.png" width=50> Madrid</p>
 
 <img src="https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/stats?cursusId=21&coalitionId=64" alt="vifernan42" />
 
