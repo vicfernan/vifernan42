@@ -23,13 +23,14 @@ Here are some ideas to get you started:
 - Linux / macOS
 - [vifernan@student.42madrid.com](mailto:vifernan@student.42madrid.com?subject=[GitHub]%20-)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vifernan42&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=vifernan42&show_icons=true&theme=radical" alt="vifernan42" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vifernan42&theme=radical" alt="vifernan42" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vifernan42&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vifernan42&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### <h1 style="color:#950104; font-family: poppins;"> <img src="https://raw.githubusercontent.com/kube/vscode-42header/master/42.png" width=50> Madrid</h1>
 
-[![vifernan's 42 stats](https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/stats?cursusId=21&coalitionId=64)](https://github.com/JaeSeoKim/badge42)
+<img src="https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/stats?cursusId=21&coalitionId=64" alt="vifernan42" />
 
 |  No.  |			Name				| Result | Date |
 |:-----:|:---------------:|:------:|:----:|
