@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 |  No.  |			Name				| Result | Date |
 |:-----:|:---------------:|:------:|:----:|
 |  00  | <a href="https://github.com/vifernan42/libft">libft</a>|<img src="https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/project/2148441" /> | May 2021 |
-|  01  |netwhat| <img src="https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/project/2163849"/> | May 2021 |
+|  01  |netwhat| <p><img src="https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/project/2163849"/></p> | May 2021 |
 |  02  | <a href="https://github.com/vifernan42/get_next_line">get_next_line</a> | <img src="https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/project/2165221" /> | June 2021 |
 |  03  | <a href="https://github.com/vifernan42/ft_printf">printf</a> | <img src="https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/project/2170754"/> | August 2021 |
 |  04  | <a href="https://github.com/vifernan42/Born2BeRoot">born2beroot</a> | <img src="https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/project/2189210" /> | September 2021 |
