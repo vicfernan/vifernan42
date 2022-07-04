@@ -32,19 +32,69 @@ Here are some ideas to get you started:
 
 <img src="https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/stats?cursusId=21&coalitionId=64" alt="vifernan42" />
 
-|  No.  |			Name				| Result | Date |
-|:-----:|:---------------:|:------:|:----:|
-|  00  | <a href="https://github.com/vifernan42/libft">libft</a>|<img src="https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/project/2148441" /> | May 2021 |
-|  01  |netwhat| <p><img src="https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/project/2163849"/></p> | May 2021 |
-|  02  | <a href="https://github.com/vifernan42/get_next_line">get_next_line</a> | <img src="https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/project/2165221" /> | June 2021 |
-|  03  | <a href="https://github.com/vifernan42/ft_printf">printf</a> | <img src="https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/project/2170754"/> | August 2021 |
-|  04  | <a href="https://github.com/vifernan42/Born2BeRoot">born2beroot</a> | <img src="https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/project/2189210" /> | September 2021 |
-|  e2  | <a href="https://github.com/vifernan42/exam02">exam02</a> | <img src="https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/project/2360319" /> | September 2021 |
-|  05  | <a href="https://github.com/vifernan42/FdF">FdF</a> | <img src="https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/project/2328743" /> |October 2021 |
-|  06  | <a href="https://github.com/vifernan42/push_swap">Push_swap</a> | <img src="https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/project/2396827" /> |November 2021 |
-|  07  | <a href="https://github.com/vifernan42/pipex">Pipex</a> | <img src="https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/project/2368031" /> |January 2022 |
-<!--|  e3  |[exam02](https://github.com/vifernan42/exam03)    		          | ![vifernan's libft Score](https://badge42.herokuapp.com/api/project/vifernan/Exam%20Rank%2003) | February 2022 |-->
 
+<table>
+    <tr> <!-- HEAD -->
+        <td>No.</td>
+        <td>Name</td>
+        <td>Result</td>
+        <td>Date</td>
+    </tr> 
+    <tr> <!-- LIFT -->
+        <td>00</td>
+        <td><a href="https://github.com/vifernan42/libft">libft</a></td>
+        <td><img src="https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/project/2148441" /></td>
+        <td>May 2021</td>
+    </tr>
+  <tr> <!-- netwhat -->
+        <td>01</td>
+        <td>netwhat</td>
+        <td><img src="https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/project/2163849"/></td>
+        <td>Mat 2021</td>
+    </tr>
+  <tr>
+        <td>02</td>
+        <td><a href="https://github.com/vifernan42/get_next_line">get_next_line</a></td>
+        <td><img src="https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/project/2165221" /></td>
+        <td>printf</td>
+    </tr>
+  <tr>
+        <td>03</td>
+        <td><a href="https://github.com/vifernan42/ft_printf">printf</a></td>
+        <td><img src="https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/project/2170754"/></td>
+        <td>August 2021</td>
+    </tr>
+  <tr>
+        <td>04</td>
+        <td><a href="https://github.com/vifernan42/Born2BeRoot">born2beroot</a></td>
+        <td><img src="https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/project/2189210" /></td>
+        <td>September 2021</td>
+    </tr>
+  <tr>
+        <td>e2</td>
+        <td><a href="https://github.com/vifernan42/exam02">exam02</a></td>
+        <td><img src="https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/project/2360319" /></td>
+        <td>September 2021</td>
+    </tr>
+   <tr>
+        <td>05</td>
+        <td><a href="https://github.com/vifernan42/FdF">FdF</a></td>
+        <td><img src="https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/project/2328743" /></td>
+        <td>October 2021</td>
+    </tr>
+   <tr>
+        <td>06</td>
+        <td><a href="https://github.com/vifernan42/push_swap">Push_swap</a></td>
+        <td><img src="https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/project/2396827" /></td>
+        <td>November 2021</td>
+    </tr>
+  <tr>
+        <td>07</td>
+        <td><a href="https://github.com/vifernan42/pipex">Pipex</a></td>
+        <td><img src="https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/project/2368031" /></td>
+        <td>January 2022</td>
+    </tr>
+</table>
 
 ---
 
