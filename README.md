@@ -1,22 +1,4 @@
-### <h1>Victor Fernandez - vifernan 🤖 </h1>
-
-<!-- ![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=vifernan) -->
-
-<!--
-**vifernan42/vifernan42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-# <h1 style="color:#950104; font-family: poppins;"> <img src="https://raw.githubusercontent.com/kube/vscode-42header/master/42.png" width=50> Madrid Telefónica Student </h1>
--->
+<h1>Victor Fernandez - vifernan 🤖 </h1>
 
 - 42Madrid Fundacion Telefonica
 - C programming
@@ -28,7 +10,7 @@ Here are some ideas to get you started:
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vifernan42&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
-### <p style="color:#950104; font-family: poppins;"> <img src="https://raw.githubusercontent.com/kube/vscode-42header/master/42.png" width=50> Madrid</p>
+<h1 style="color:#950104; font-family: poppins;"> <img src="https://raw.githubusercontent.com/kube/vscode-42header/master/42.png" width=50> Madrid</h1>
 
 <img src="https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/stats?cursusId=21&coalitionId=64" alt="vifernan42" />
 
