@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 42Madrid
 - C programming
 - Linux / macOS
-- [vifernan@student.42madrid.com](mailto:vifernan@student.42madrid.com?subject=[GitHub]%20-)
+- <a href="mailto:vifernan@student.42madrid.com?subject=[GitHub]%20-">vifernan@student.42madrid.com</a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=vifernan42&show_icons=true&theme=radical" alt="vifernan42" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vifernan42&theme=radical" alt="vifernan42" />
