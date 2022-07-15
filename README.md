@@ -30,13 +30,13 @@
         <td>01</td>
         <td>netwhat</td>
         <td><img src="https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/project/2163849"/></td>
-        <td>Mat 2021</td>
+        <td>May 2021</td>
     </tr>
   <tr>
         <td>02</td>
         <td><a href="https://github.com/vifernan42/get_next_line">get_next_line</a></td>
         <td><img src="https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/project/2165221" /></td>
-        <td>printf</td>
+        <td>June 2021</td>
     </tr>
   <tr>
         <td>03</td>
