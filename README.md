@@ -78,7 +78,7 @@
         <td>e3</td>
         <td><a href="#">exam03</a></td>
         <td><img src="https://badge42.vercel.app/api/v2/cl4lm7u89001109jv4i7sppsl/project/2501333" /></td>
-        <td>September 2021</td>
+        <td>June 2022</td>
     </tr>
 </table>
 
