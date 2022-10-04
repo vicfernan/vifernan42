@@ -5,6 +5,8 @@
 - Linux / macOS
 - <a href="mailto:vifernan@student.42madrid.com?subject=[GitHub]%20-">vifernan@student.42madrid.com</a>
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="victor-fernandez-barrado" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/victor-fernandez-barrado?trk=profile-badge">Victor Fernandez Barrado</a></div>
+
 <img src="https://github-readme-stats.vercel.app/api?username=vifernan42&show_icons=true&theme=radical" alt="vifernan42" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vifernan42&theme=radical" alt="vifernan42" />
 <hr class="dashed">
