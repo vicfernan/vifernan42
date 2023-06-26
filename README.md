@@ -1,6 +1,6 @@
 <h1>Victor Fernandez - vifernan 🤖 </h1>
 
-- Salesforce Developer TGS (Talentum LAB) at Telefonica
+- Salesforce Developer at Telefonica Global Solutions
 - 42Madrid Fundacion Telefonica
 - C programming
 - Linux / macOS
